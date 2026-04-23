@@ -1,7 +1,6 @@
 # CS320
 Projects for CS320: Software Testing, Automation QA
 
-How can I ensure that my code, program, or software is functional and secure?
 This course asked us to create software for a hypothetical customer using tried and true testing methods with JUnit.
 The software itself needed a Contact class, Contact Service class, Task class, Task Service Class, Appointment Class,
 and Appointment Service class. Each of these classes had a list of requirements we had to meet when developing our
